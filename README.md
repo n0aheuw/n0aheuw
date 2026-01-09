@@ -26,11 +26,6 @@ I enjoy projects where these areas overlap, like open-source tools for IoT appli
 
 ---
 
-### GitHub Stats:
-![n0aheuw's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0aheuw&show_icons=true&theme=radical)
-
----
-
 ### 📌 Pinned Repositories
 Check out my featured projects below!
 
