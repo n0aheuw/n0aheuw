@@ -1,31 +1,100 @@
-# Hi there, I'm Noah 👋
+# Hi, I'm Noah 👋
 
-I'm a developer passionate about building and exploring new technology that connects communities and enhances creativity. My interests span:
-
-- **Open Source Development**: I love contributing to open-source projects, collaborating with developers worldwide, and building tools that help others bring their ideas to life.
-- **Internet of Things (IoT)**: I'm fascinated by the possibilities of connected devices and enjoy developing solutions that bring smart tech into everyday life.
-- **Game Development & Modding**: Game development and modding allow me to blend creativity with coding, building immersive experiences and personalizing games for unique playstyles.
-
-I enjoy projects where these areas overlap, like open-source tools for IoT applications or community-driven game mods, and I’m always excited to learn more about new intersections between these fields.
-
-- 🔭 I’m currently working on a new mod for **RimWorld (BarFights)**.
-- 🌱 I’m currently learning **C#** to help me on my Modding Journey.
-- 👯 I’m looking to collaborate on **open-source projects, game mods, or IoT applications**—especially those that connect with communities or bring new functionality to users.
-- 💬 Ask me about **game development, open-source contributions, or connecting IoT devices**. I also enjoy discussing tech trends and tools that enhance creativity and productivity.
-- ⚡ Fun fact: **I’m always experimenting with new game mods and love discovering unique gameplay mechanics!**
+🎓 Computer Systems Engineering (Electrical and Electronic Focus)
+💻 Software Developer | Embedded Systems | Full-Stack Development  
+🛠️ Open-source enthusiast and game modding hobbyist  
 
 ---
 
-### Languages & Tools:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![VBA](https://img.shields.io/badge/-VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![XML](https://img.shields.io/badge/-XML-FF6600?style=flat&logo=xml&logoColor=white)
+## 🚀 About Me
+
+I’m an engineering-focused developer with interests spanning **embedded systems, electronics, and full-stack software development**.  
+My work often combines hardware and software — from low-level signal processing circuits to higher-level applications and tools.
+
+I enjoy building practical solutions, learning new technologies, and working on projects that bridge engineering and software.
 
 ---
 
-### 📌 Pinned Repositories
-Check out my featured projects below!
+## 🔧 Technical Skills
 
+### Languages
+- Python
+- C++
+- C#
+- JavaScript / HTML / CSS
+- VBA
+- SQL / Data handling
+- XML
+
+### Engineering & Hardware
+- Analog and digital circuit design
+- Signal conditioning (low-level sensing)
+- Oscilloscope & lab instrumentation
+- Microcontroller / embedded concepts
+- Power and control electronics fundamentals
+
+### Software & Development
+- Full-stack development fundamentals
+- API design and integration
+- Git & GitHub
+- Visual Studio / VS Code
+- Debugging and testing workflows
+- Office automation with VBA
+
+---
+
+## 🧠 Current Focus
+
+- Full-stack application development
+- Embedded and sensing system design
+- IoT experimentation and prototyping
+- Software tools for engineering workflows
+- Game development & modding projects
+
+---
+
+## 📌 Featured Work
+
+### 🔬 Engineering Project — Precision Sensing System
+- Designed circuits to amplify **0–100 mV signals**
+- Eliminated dual power supplies using innovative rail generation approaches
+- Implemented solutions using:
+  - 555 timer charge pump
+  - Precision diode clamping
+  - Voltage divider optimisation
+- Validated with oscilloscope testing and signal generators
+
+### 🌐 Software & Development Projects
+- Application development across frontend and backend components
+- Automation and tooling projects in Python and C#
+- Integration of software with hardware-driven workflows
+
+---
+
+## 📈 Interests
+
+- Embedded systems & electronics
+- Full-stack software engineering
+- Open-source collaboration
+- IoT and automation
+- Game engines & modding
+- Engineering problem-solving
+
+---
+
+## 📊 GitHub Stats
+
+![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0aheuw&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n0aheuw&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/n0aheuw
+- LinkedIn: https://www.linkedin.com/in/noahjohnson-cse/
+
+---
+
+⭐️ Always open to interesting projects, collaborations, and learning opportunities.
