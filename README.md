@@ -1,6 +1,6 @@
 # Hi, I'm Noah 👋
 
-> 🎓 Computer Systems Engineering (Electrical & Electronic Focus) &nbsp;·&nbsp; 💻 Software Developer &nbsp;·&nbsp; 🛠️ Open-source & Game Modding Enthusiast
+> 🎓 Computer Systems Engineering (Electrical & Electronic Focus) &nbsp;·&nbsp; 💻 Software Developer &nbsp;·&nbsp; 🛠️ Open-source Enthusiast
 
 I'm an engineering-focused developer with interests spanning **embedded systems, electronics, and full-stack software development**. My work often bridges hardware and software — from low-level signal processing circuits to higher-level applications and tools.
 
@@ -22,8 +22,6 @@ I'm an engineering-focused developer with interests spanning **embedded systems,
 
 ---
 
-### ⚡ Engineering & Hardware &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🖥️ Software & Tools
-
 | ⚡ Engineering & Hardware | 🖥️ Software & Tools |
 |---|---|
 | Analog & digital circuit design | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) |
@@ -31,16 +29,6 @@ I'm an engineering-focused developer with interests spanning **embedded systems,
 | Oscilloscope & lab instrumentation | Office automation (VBA) |
 | Microcontroller / embedded concepts | Debugging & testing workflows |
 | Power & control electronics | Git & version control |
-
----
-
-## 🧠 Current Focus
-
-| | |
-|---|---|
-| 🌐 Full-stack application development | 🔌 Embedded & sensing system design |
-| 📡 IoT experimentation & prototyping | 🎮 Game development & modding |
-| 🛠️ Software tools for engineering workflows | 🤝 Open-source collaboration |
 
 ---
 
@@ -59,16 +47,6 @@ Validated with oscilloscope testing and signal generators.
 - Application development across frontend and backend components
 - Automation and tooling projects in Python and C#
 - Integration of software with hardware-driven workflows
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=n0aheuw&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0aheuw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
